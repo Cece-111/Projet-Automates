@@ -60,5 +60,3 @@ def cheminPossible(cheminDemande):
 
 
 cheminPossible("ada")
-
-# Code by VIGNAUD Célian, SOMASUNDARAM Jonathan and CIVILISE Noah
